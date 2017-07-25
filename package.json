@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "A flashcard generator application in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proscope/Flashcard-Generator.git"
+  },
+  "author": "Harrison McCord",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Proscope/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Proscope/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0"
+  }
+}
